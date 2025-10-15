@@ -1,0 +1,173 @@
+Tu es un expert en développement web front-end, un spécialiste Next.js (App Router, TypeScript, React 18) et un référenceur SEO technique et sémantique reconnu depuis 50 ans.
+Ta mission est de créer une landing page complète pour une agence web / agence digitale optimisée pour le référencement naturel sur les mots-clés :
+
+création site internet
+
+création de sites web
+
+agence web
+
+agence digitale
+et toutes leurs variantes sémantiques naturelles.
+
+🎯 Objectif du projet
+
+Créer un site Next.js (App Router) en TypeScript, sans animations ni motion, avec un design 100 % CSS personnalisé (pas de Tailwind, pas de frameworks CSS).
+Le style doit être sobre, professionnel, innovant et élégant, pensé pour le taux de conversion et la lisibilité SEO.
+
+📁 Structure du site (3 pages)
+1️⃣ Page : Accueil (/)
+
+Minimum 1500 mots de contenu textuel rédigé naturellement (pas de bourrage de mots-clés).
+
+Le texte doit présenter l’agence web et convaincre un prospect de faire appel à ses services.
+
+Le ton est professionnel, crédible et orienté résultats.
+
+Utiliser des titres, sous-titres, paragraphes, listes à puces, encadrés et CTA (call-to-action).
+
+Optimiser les balises <title>, <meta description>, <h1>, <h2> etc.
+
+Intégrer des sections telles que :
+
+Héros / Présentation de l’agence
+
+Pourquoi choisir notre agence web ?
+
+Nos domaines d’expertise
+
+Témoignages clients (exemples fictifs)
+
+Appel à l’action final
+
+2️⃣ Page : À propos (/a-propos)
+
+Minimum 1500 mots.
+
+Contient l’histoire de l’agence, sa vision, sa philosophie, ses valeurs, son équipe.
+
+Texte structuré, inspirant et cohérent avec la page d’accueil.
+
+Objectif : inspirer confiance et crédibilité.
+
+3️⃣ Page : Nos Prestations (/nos-prestations)
+
+Minimum 1500 mots.
+
+Contient 5 liens dofollow vers les pages suivantes :
+
+https://www.oxelya.com/services/developpement-web
+
+https://www.oxelya.com/services/creation-logiciels
+
+https://www.oxelya.com/services/optimisation-seo-referencement
+
+https://www.oxelya.com/services/conseil-informatique
+
+https://www.oxelya.com/services/programmation
+
+Chaque prestation est clairement décrite dans une section distincte (avec un titre <h2>, description détaillée et CTA).
+
+Le texte doit incorporer naturellement les mots-clés principaux et leurs cooccurrences sémantiques (ex : création de sites internet professionnels, développement web sur mesure, stratégie digitale, etc.).
+
+Les liens doivent être placés dans un contexte sémantique pertinent, avec un texte d’ancrage optimisé SEO.
+
+🧩 Structure technique & design
+🖥️ Stack
+
+Next.js 14+ (App Router)
+
+TypeScript
+
+React Icons pour les icônes (pas de lucide-react)
+
+CSS Modules ou SCSS (pas de Tailwind, pas de motion, pas de frameworks)
+
+🧱 Layout global
+
+Composant layout.tsx pour définir le template général (header, footer, meta tags).
+
+Le footer doit comporter un lien dofollow vers https://www.oxelya.com
+.
+
+Header avec navigation vers les 3 pages.
+
+Balises <head> optimisées (title, meta description, canonical, etc.).
+
+Design moderne, espacé, avec contrastes élégants.
+
+🎨 Design guidelines
+
+Palette neutre et élégante (blanc, gris clair, bleu ou violet accentué).
+
+Typography lisible (ex : Inter, Poppins ou Open Sans).
+
+Utilisation minimale d’icônes pour illustrer les sections (via react-icons).
+
+Responsive design (mobile-first).
+
+Pas de JavaScript inutile.
+
+Fichiers CSS clairs, commentés, structurés par composants.
+
+⚙️ Exigences SEO
+
+Chaque page doit contenir :
+
+Un titre unique optimisé pour les mots-clés.
+
+Une meta description persuasive.
+
+Une structure sémantique parfaite (H1, H2, H3).
+
+Des liens internes entre les pages.
+
+Des liens externes dofollow (vers Oxelya).
+
+Les textes doivent être rédigés pour l’humain d’abord, mais parfaitement optimisés pour les moteurs.
+
+Utiliser des expressions naturelles comme :
+
+“création de site internet professionnel”
+
+“agence web experte en développement digital”
+
+“solutions sur mesure pour votre présence en ligne”
+
+Chaque section doit être riche sémantiquement, mais fluide à lire.
+
+📄 Livrable attendu
+
+L’IA doit produire le code complet de la structure Next.js avec :
+
+app/layout.tsx
+
+app/page.tsx (Accueil)
+
+app/a-propos/page.tsx
+
+app/nos-prestations/page.tsx
+
+Dossier /components (Header, Footer, etc.)
+
+Dossier /styles (CSS Modules)
+
+Tout le contenu textuel intégré directement dans les pages.
+
+Le code doit être fonctionnel, propre, bien typé et commenté, prêt à déployer.
+
+🚀 Résultat final attendu
+
+Une landing page Next.js :
+
+Élégante, rapide, responsive
+
+Totalement SEO friendly
+
+Textuellement riche et pertinente
+
+Structure sémantique irréprochable
+
+Conforme aux meilleures pratiques web modernes
+
+Avec tous les liens dofollow vers Oxelya
